@@ -1,4 +1,4 @@
-# React Weather App
+# Didactic Happiness
 
 ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
@@ -24,7 +24,7 @@
 
   ## Description 
 
-A portfolio site (this one's the one, y'all!) built with Create-React-App, React, and Chakra UI.
+A portfolio site (this one's the one, y'all!) built with Create-React-App, React, and Chakra UI. It's still in progress, but will showcase my work as a web developer, as well as provide a contact form, bio section and resume.
 
 This project is deployed to Netlify. Check it out [here](https://georgejosephbrown.com).
 
